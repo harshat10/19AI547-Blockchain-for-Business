@@ -1,3 +1,5 @@
+### Name : Harshat G
+### RegNo.: 212224040106
 # Experiment 6: Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
 # Aim:
 To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks.
@@ -96,12 +98,17 @@ contract PasswordlessAuthDemo {
 # Expected Output:
 Users can register without a password.
 
+<img width="1918" height="1011" alt="Screenshot 2026-05-23 105953" src="https://github.com/user-attachments/assets/07b9607f-7eac-4edf-bd34-bdc6b07280ef" />
+
 
 Users sign a challenge with their private key for authentication.
+
+<img width="1915" height="1048" alt="image" src="https://github.com/user-attachments/assets/b8adb385-2209-4164-b4a7-20e420db2dcc" />
 
 
 The smart contract verifies signatures to confirm identity.
 
+<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/4e5d393a-abf9-43e8-90b5-93705ae4eac6" />
 
 
 # High-Level Overview:
@@ -114,3 +121,4 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+Thus, a secure passwordless authentication system using public-private key cryptography on Ethereum was deployed and verified.
